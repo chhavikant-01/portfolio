@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1R_3KrpQCGlbRjP2XLiNTXUCgO3TimiY7/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1TA6nCK3k84YnE_TjiJKyWf-lGXPoErq2/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -217,7 +217,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://rasoriitm-dev.vercel.app/"
+          url: "https://rasoriitm.vercel.app/"
         }
         //  you can add extra buttons here.
       ]
